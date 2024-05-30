@@ -36,4 +36,4 @@ I'm a data professional looking to make a positive impact via data science, data
 - 📊 Research Assistant at SUNY Binghamton
 
 ## Resume 📃
-[Rujuta_Vaidya_Resume]([https://drive.google.com/file/d/1f4qf6_jxsztqbMFgwvhvbt0Z1e12TE9f/view?usp=drive_link](https://drive.google.com/file/d/1i_qcuqOzCUaulduAQk8NjGzTBcZotuG1/view?usp=sharing)
+[Rujuta_Vaidya_Resume](https://drive.google.com/file/d/1i_qcuqOzCUaulduAQk8NjGzTBcZotuG1/view?usp=sharing)
